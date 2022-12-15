@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any data science projects
 - 📫 How to reach me :
 - GMAIL: vadinyfotsing@gmail.com
-- Whatsapp: https://wa.me/676279816
+- Whatsapp: https://wa.me/+237676279816
 
 <li>gmaoil</li>
 <!---
