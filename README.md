@@ -2,7 +2,9 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any data science projects
-- 📫 How to reach me ...
+- 📫 How to reach me :
+    *GMAIL: vadinyfotsing@gmail.com
+    *Whatsapp: https://wa.me/676279816
 
 <!---
 Hindra98/Hindra98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
