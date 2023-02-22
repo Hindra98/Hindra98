@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hindra98
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on any data science projects
+- 🌱 I’m currently learning Python, 
+- 💞️ I’m looking to collaborate on any Python projects or React and Firebase projects
 - 📫 How to reach me :
 - GMAIL: vadinyfotsing@gmail.com
 - Whatsapp: https://wa.me/+237676279816
