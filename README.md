@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Python projects or React and Firebase projects
 - 📫 How to reach me :
 
-[![Gmail](https://img.shields.io/badge/Gmail-_Vadiny_Fotsing_-blue)](vadinyfotsing@gmail.com)
+
 [![linkedin](https://img.shields.io/badge/Linkedin-_Vadiny_Fotsing_-blue)](https://www.linkedin.com/in/vadinyfotsing/)
 [![twitter](https://img.shields.io/twitter/follow/vadinyfotsing?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/vadinyfotsing)
 [![wakatime](https://wakatime.com/badge/user/f3f16a13-c450-436f-a021-7344b984105f.svg)](https://wakatime.com/@f3f16a13-c450-436f-a021-7344b984105f)
