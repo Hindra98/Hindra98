@@ -5,8 +5,8 @@
 - 📫 How to reach me :
 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-_Vadiny_Fotsing_-blue)](https://www.linkedin.com/in/vadinyfotsing/)
-[![twitter](https://img.shields.io/twitter/follow/vadinyfotsing?style=plastic&logo=twitter&labelColor=595959&color=595959)](https://twitter.com/vadinyfotsing)
+![Static Badge](https://img.shields.io/badge/Follow-Vadiny_Fotsing-blue?logo=linkedin&logoColor=%230A66C2)
+[![twitter](https://img.shields.io/twitter/follow/vadinyfotsing?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/vadinyfotsing)
 [![wakatime](https://wakatime.com/badge/user/f3f16a13-c450-436f-a021-7344b984105f.svg)](https://wakatime.com/@f3f16a13-c450-436f-a021-7344b984105f)
 
 [![Faites une donation](https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png?w=300 "Payez moi un café SVP")](https://www.buymeacoffee.com/hindra98)
