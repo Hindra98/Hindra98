@@ -7,10 +7,6 @@
 
 ![Static Badge](https://img.shields.io/badge/Follow-Vadiny_Fotsing-blue?logo=linkedin&logoColor=%230A66C2)
 
-![Static Badge](https://img.shields.io/badge/Vadiny_Fotsing-blue?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvadinyfotsing%2F)
-
-![Static Badge](https://img.shields.io/badge/Vadiny_Fotsing-blue?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvadinyfotsing%2F)
-
 [![twitter](https://img.shields.io/twitter/follow/vadinyfotsing?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/vadinyfotsing)
 [![wakatime](https://wakatime.com/badge/user/f3f16a13-c450-436f-a021-7344b984105f.svg)](https://wakatime.com/@f3f16a13-c450-436f-a021-7344b984105f)
 
