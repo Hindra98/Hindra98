@@ -16,7 +16,7 @@
 [![twitter](https://img.shields.io/twitter/follow/vadinyfotsing?style=plastic&logo=x&labelColor=595959&color=595959)](https://twitter.com/vadinyfotsing)
 [![wakatime](https://wakatime.com/badge/user/f3f16a13-c450-436f-a021-7344b984105f.svg)](https://wakatime.com/@f3f16a13-c450-436f-a021-7344b984105f)
 
-[![Faites une donation](https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png?w=300 "Payez moi un café SVP")](https://www.buymeacoffee.com/hindra98)
+[![Faites une donation](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png "Payez moi un café SVP")](https://www.buymeacoffee.com/hindra98)
 
 <!---
 Hindra98/Hindra98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
