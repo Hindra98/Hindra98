@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hindra98
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, 
 - 💞️ I’m looking to collaborate on any Python projects or React and Firebase projects
 
 - Skills
